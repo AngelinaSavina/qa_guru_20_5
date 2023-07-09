@@ -21,7 +21,7 @@ public class SolutionsTest {
         Configuration.browser = CHROME;
         Configuration.holdBrowserOpen = true;
     }
-    
+
 
     @Test
     void selenideWiki(){
